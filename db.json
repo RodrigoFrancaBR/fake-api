@@ -1,0 +1,7 @@
+{
+    "books":[
+        {"id":1, "title":"Meu Livro_1", "author":"Autor_1", "isbn":"121212"},
+        {"id":2, "title":"Meu Livro_2", "author":"Autor_2", "isbn":"121213"},
+        {"id":3, "title":"Meu Livro_3", "author":"Autor_3", "isbn":"121214"}
+    ]
+}
